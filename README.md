@@ -1,5 +1,5 @@
 # AddressBookWebapp
-An address book web app that stores and retrieves addresses from Java DB.
+An address book JSF (JavaServer Faces) web app that stores and retrieves addresses from Java DB. JSF is a Java specification for building component-based UI for web applications.
 
 # Description
 The AddressBook Java DB contains an Addresses table with columns `ADDRESSID`, `FIRSTNAME`, `LASTNAME`, `STREET`, `CITY`, `STATE`, and `ZIP`.
