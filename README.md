@@ -27,7 +27,7 @@ cd AddressBookWebapp
 - Setting up the Database
   - Open the NetBeans IDE.
   - On the **Services** tab, expand the **Databases** node then right click **Java DB**. Select **Start** server to launch the Java DB server.
-  - On the **Services** tab, expand the **Servers** node then right click **GlassFish Server 4.1.Select **Start** to launch GlassFish.
+  - On the **Services** tab, expand the **Servers** node then right click **GlassFish Server 4.1**.Select **Start** to launch GlassFish.
   
 - Creating the Database
   - On the **Services** tab, expand the **Databases** node, right click **Java DB** and select **Create Database...**.
@@ -44,3 +44,7 @@ File**.
 ### Test the address book application
 - Launch the application from a web browser.
 - Check sample outputs.
+- ![AddressBook](https://github.com/lnpeng/AddressBookWebapp/blob/master/Screen%20Shot%202018-11-18%20at%206.01.41%20PM.png)
+
+# Build
+- [Maven](https:maven.apache.org) - Dependency Management.
