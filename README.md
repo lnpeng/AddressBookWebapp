@@ -46,5 +46,8 @@ File**.
 - Check sample outputs.
 - ![AddressBook](https://github.com/lnpeng/AddressBookWebapp/blob/master/Screen%20Shot%202018-11-18%20at%206.01.41%20PM.png)
 
+## Deployment
+Deploy the war file to [GlassFish](https://javaee.github.io/glassfish/) Server.
+
 # Build
 - [Maven](https:maven.apache.org) - Dependency Management.
